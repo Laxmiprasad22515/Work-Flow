@@ -89,4 +89,6 @@ A modern Kanban board web application for organizations to manage tasks, employe
 
 
 
+---
+
 *Work Flow — Streamline your team's productivity with a beautiful, modern Kanban board.*
