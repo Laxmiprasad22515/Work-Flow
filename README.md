@@ -87,10 +87,6 @@ A modern Kanban board web application for organizations to manage tasks, employe
 - `npm run build` — Build for production
 - `npm run preview` — Preview production build
 
-## License
 
-MIT
-
----
 
 *Work Flow — Streamline your team's productivity with a beautiful, modern Kanban board.*
