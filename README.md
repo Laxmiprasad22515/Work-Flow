@@ -52,8 +52,8 @@ A modern Kanban board web application for organizations to manage tasks, employe
    - Create a [Supabase](https://supabase.com/) project.
    - Set up tables for `admins`, `employees`, and `tasks` as per the app's needs.
    - Copy your Supabase URL and anon/public key.
-   - Create a `.env` file in the root directory and add:
-     ```env
+   - Paste your Supabase URL and anon/public keys in `supabaseClient.js` file in the lib folder:
+     ```supabaseClient.js
      VITE_SUPABASE_URL=your-supabase-url
      VITE_SUPABASE_ANON_KEY=your-supabase-anon-key
      ```
